@@ -1,7 +1,7 @@
 # DiceGame
 
-Can be played at  https://dariuszlegizynski.github.io/DiceGame/
+Press F5 to get another result.
 
-Press F5 to get an other result.
+Used JavaScript and CSS
 
-Using JavaScript and CSS
+Part of the web developer tutorial udemy course
